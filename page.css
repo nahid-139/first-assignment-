@@ -103,7 +103,7 @@
     margin: 5px;
 }
 
-/* Plan Style */
+/* Plan Styles */
 .plans {
     margin: 30px 0px;
 }
@@ -140,7 +140,37 @@
     text-align: center;
     padding: 10px 0px;
 }
+/* What i do styles */
+.what-i-do{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 130px;
+    background: #1479de;
+    border-radius: 10px;
+    padding: 130px 0px;
+    color: aliceblue;
+    font-size: 40px;
+    background-image: url(./images/blue\ sky.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
+.what-section-title{
+    text-align: center;
+    margin-bottom: 40px;
+    color: #010a13;
+    
 
+}
+.what-section-discribe{
+    color:#000203;
+    font-size: 20px;
+    text-align: center;
+    font: bold;
+
+}
+/* overley styles */
 .overley {
     margin: 50px 0px;
 }
